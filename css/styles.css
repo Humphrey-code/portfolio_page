@@ -1,4 +1,4 @@
-body {text-align: center;background-color: sienna; color: white; text-decoration-style: wavy;font-family: sans-serif;}
+body {background-color: sienna; color: white; text-decoration-style: wavy;font-family: sans-serif;text-align: center;}
 h1 {font-style: normal;color: grey;font-family: Century;}
 h2 {color: black; font-style: italic;text-decoration: underline;text-decoration-color: chocolate}
 h3 {color: black;font-style: normal;;float:center; border: 5px; border-color: grey; border-style: ridge;background-color: #FFFFFF; border-width: thick;}
